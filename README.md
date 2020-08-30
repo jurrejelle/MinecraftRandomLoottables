@@ -8,7 +8,7 @@ For example, breaking a vine could have the loot of a blacksmith chest in a vill
 
 ## How to install
 Download the files  
-Unzip them  
+Unzip the loot_tables.zip, and make sure the loot_tables folder is in the same folder as the randomize.py  
 run `python randomize.py` (or `python randomize.py <seed>` if you want the randomizer to have a seed)  
 That will generate a 'random_loot.zip'  
 Open minecraft 1.14 and create a world  
